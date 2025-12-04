@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="deep_orange">#FF8A00</color>
+    <color name="soft_orange">#FFA940</color>
+    <color name="bright_yellow">#FFD93B</color>
+    <color name="megaphone_purple">#8A3FFC</color>
+    <color name="megaphone_dark_purple">#6A22CC</color>
+    <color name="megaphone_pink">#FF69B4</color>
+    <color name="screen_purple">#C77DFF</color>
+    <color name="screen_light_purple">#E5C4FF</color>
+</resources>

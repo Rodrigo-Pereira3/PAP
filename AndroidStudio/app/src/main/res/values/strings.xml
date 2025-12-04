@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">screenAlert</string>
+    <string name="frase_um">Envia um alerta e faz-te ouvir.</string>
+    <string name="frase_dois">ESCREVE. ENVIA. PROJETA.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
